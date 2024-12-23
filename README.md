@@ -1,7 +1,7 @@
 <h1>Single-Page CV Website</h1>
 
 Pratice project proposed by Roadmap.sh to pratice html structure by creating a online resume using only html.<br><br>
-It's a layout reproduction given by the challenge, check out their project page to check it out.
+It's a layout reproduction given by the challenge, check out their project page to check it out.<br>
 <a href="https://alexgmblt.github.io/Single-Page-CV/">Preview Page</a>
 
 Project proposed by https://roadmap.sh/projects/single-page-cv
